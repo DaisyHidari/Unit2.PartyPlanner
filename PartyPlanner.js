@@ -1,5 +1,5 @@
 const COHORT_ID = "2401-FTB-ET-WEB-AM";
-const API_URL = "https://fsa-crud-2aa9294fe819.herokuapp.com/api/${COHORT_ID}/events";
+const API_URL = "https://fsa-crud-2aa9294fe819.herokuapp.com/api/2401-FTB-ET-WEB-AM/events";
 
 const state = {
     events: [],
